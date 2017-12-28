@@ -292,7 +292,7 @@
   task: writelines
   options:
     header: Finished
-    text: 'Your new project "{projectname}" is now redeady for development'
+    text: 'Your new project "{projectname}" is now ready for development'
     hodor: ''
     0: 'To start local development run:'
     1: 'docker-compose up -d && ./flow server:run'

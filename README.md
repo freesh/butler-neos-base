@@ -1,5 +1,15 @@
 # Butler neos-base distribution recipe
 
+This is a recipe for butler to create a basic neos cms installation with some additional packages and a local development environment.
+I build this recipe to spin up new neos projects more faster and automated.
+So i can start development after some minutes of watching cli or drinking tea.
+
+
+Butler is a task-runner based on php and configurable with yaml files. (https://github.com/freesh/butler)
+
+
+For more information about neos cms visit: http://www.neos.io
+
 ## Usage:
 
 ### install recipe

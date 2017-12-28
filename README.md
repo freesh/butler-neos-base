@@ -51,7 +51,7 @@ docker-compose up -d && ./flow server:run
 ```
 
 And than visit the ip which is listed after executing the command.
-Local Admin user credentials are: admin:admin ( Don't do this a live, its just for local development ;) )
+Local Admin user credentials are: admin:admin ( Don't do this a live, it's just for local development ;) )
 
 **Init Git**
 

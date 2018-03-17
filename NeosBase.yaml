@@ -244,6 +244,9 @@
       - 'Readme.rst'
       - 'Upgrading.rst'
       - '.idea'
+      - '.vscode'
+      - '.build'
+      - 'DistributionPackages/*.Site/Resources/Public/Styles/*.css*'
 
 'Git add':
   class: \Butler\Task\GitTask
